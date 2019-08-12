@@ -15,13 +15,13 @@ Google Colaboratoryを用いて，実習することを想定しています．
 
 [02.ユークリッド距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/02_classification_by_euclidean_distance.ipynb)
 
-[03.マハラノビス距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/03_classification_by_ mahalanobis_distance.ipynb)
+[03.マハラノビス距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/03_classification_by_mahalanobis_distance.ipynb)
 
 [04.k最近傍法による教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/04_supervised_learning_by_k-nearest_neighbor.ipynb)
 
 [05.線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/05_supervised_learning_by_linear_svm.ipynb)
 
-[06.非線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/06_supervised_learning_by nonliear_svm.ipynb)
+[06.非線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/06_supervised_learning_by_nonliear_svm.ipynb)
 
 [07.AdaBoostによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/mldl_lecture/07_supervised_learning_by_adaboost.ipynb)
 
