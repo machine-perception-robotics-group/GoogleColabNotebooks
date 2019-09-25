@@ -1,1 +1,13 @@
+# global
+*.pyc
+
+
+# JDLA lecture notebook
+JDLA_lecture_notebook/data.zip
+JDLA_lecture_notebook/data/
+JDLA_lecture_notebook/__MACOSX/
+
+
+# others
 chainer_notebooks/result/
+
