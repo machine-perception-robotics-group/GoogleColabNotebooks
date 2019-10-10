@@ -28,4 +28,11 @@
 
 [08. バッチ正規化（CIFAR10を用いた物体認識）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/JDLA_lecture_notebook/08_batch_normalization.ipynb)
 
+[09. 回帰結合型のニューラルネットワークによる文章生成](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/JDLA_lecture_notebook/09_recurrent_neural_network.ipynb)
+
+[10. 双方向LSTMによる品詞のタグ付け](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/JDLA_lecture_notebook/10_bi-directional_lstm.ipynb)
+
+[11. Encoder-Decoderによる機械翻訳](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/JDLA_lecture_notebook/11_lstm_encoder_decoder.ipynb)
+
+
 
