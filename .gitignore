@@ -1,6 +1,13 @@
 # global
 *.pyc
 
+# MLDL
+MLDL_lecture_notebooks/cifar-10-batches-py/
+MLDL_lecture_notebooks/cifar-10-python.tar.gz
+MLDL_lecture_notebooks/data.zip
+MLDL_lecture_notebooks/data/
+MLDL_lecture_notebooks/DenoiseMNIST/
+MLDL_lecture_notebooks/MNIST/
 
 # JDLA lecture notebook
 JDLA_lecture_notebook/data.zip
