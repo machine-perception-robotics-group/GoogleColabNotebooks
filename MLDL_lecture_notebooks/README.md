@@ -1,5 +1,10 @@
 # Machine (Deep) Learning Lecture Notebooks
 
+## Note:
+ここでは，深層学習の実習にChainerを用いています．
+PyTorch版は[こちら](https://github.com/machine-perception-robotics-group/GoogleColabNotebooks/tree/pytorch/MLDL_lecture_notebooks)
+
+
 機械学習（深層学習）を用いた画像認識のセミナー・講義等で用いる実習用ノートブックです．
 Google Colaboratoryを用いて，実習することを想定しています．
 
