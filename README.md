@@ -20,8 +20,9 @@
 
 ### MLDL_lecture_notebook
 
-機械学習の基礎と深層学習を用いた画像認識プログラム
+機械学習と深層学習の基本的な処理を学ぶための画像認識プログラムが含まれています．
 
-### その他
+### JDLA_lecture_notebook
 
-TBA
+一般社団法人 日本ディープラーニング協会 (Japan Deep Learning Association; JDLA) のE資格の学習を想定した機械学習・真相学習の学習用プログラムが含まれています．
+
