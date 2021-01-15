@@ -15,18 +15,12 @@ Google Colaboratoryを用いて，実習することを想定しています．
 
 [00.Google Colaboratoryの動作確認](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/00_operation_check_of_google_colab.ipynb)
 
-[09-A.MNISTを用いた文字認識(MLP)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/01_MNIST_MLP.ipynb)
+[01.MNISTを用いた文字認識(MLP)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/01_MNIST_MLP.ipynb)
 
-[09-B.MNISTを用いた文字認識(CNN)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/02_MNIST_CNN.ipynb)
+[02.MNISTを用いた文字認識(CNN)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/02_MNIST_CNN.ipynb)
 
-[10-A.CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/10-A_objecct_classification_with_cifar10.ipynb)
+[03.CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/03_CIFAR_CNN.ipynb)
 
-[10-B.CIFAR10を用いた物体認識（白色化・Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/10-B_objecct_classification_with_cifar10_whitening_augmentation.ipynb)
+[04.CIFAR10を用いた物体認識（白色化・Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/04_white_augmentation.ipynb)
 
-[10-C.CIFAR10を用いた物体認識（白色化・Data Augmentation・ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/10-C_objecct_classification_with_cifar10_whitening_augmentation_resnet.ipynb)
-
-[11.Recurrent Neural Networkによる電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/11_power_prediction_by_recurrent_neural_network.ipynb)
-
-[12.Auto Encoderによる画像の復元とデノイジング](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/12_image_reconstruction_denoising_by_autoencoder.ipynb)
-
-[13.強化学習によるCart Pole制御](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/13_cart_pole_control_by_deep_reinforcement_learning.ipynb)
+[05.CIFAR10を用いた物体認識（白色化・Data Augmentation・ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/05_cifar_resnet.ipynb)
