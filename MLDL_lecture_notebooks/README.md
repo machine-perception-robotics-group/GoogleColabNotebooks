@@ -21,7 +21,7 @@ Google Colaboratoryを用いて，実習することを想定しています．
 
 [03.CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/03_CIFAR_CNN.ipynb)
 
-[04.CIFAR10を用いた物体認識（白色化・Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/04_white_augmentation.ipynb)
+[04.CIFAR10を用いた物体認識（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/04_augmentation.ipynb)
 
 [05.CIFAR10を用いた物体認識（ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/seminar1/MLDL_lecture_notebooks/05_cifar_resnet.ipynb)
 
