@@ -1,17 +1,15 @@
 # Machine (Deep) Learning Lecture Notebooks
 
-## Note:
-ここでは，深層学習の実習にPyTorchを用いています．
+
+Notebooks to learn machine and deep learning.
+We assume that we use Google Colaboratory to execute notebooks.
 
 
-機械学習（深層学習）を用いた画像認識のセミナー・講義等で用いる実習用ノートブックです．
-Google Colaboratoryを用いて，実習することを想定しています．
+## External links to open each notebooks by Google Colaboratory
 
+If you click the following links, notebooks are opened as Google Colaboratory.
+Then, please copy to the notebook into your Google Drive.
 
-## Google Colabで開くためのリンク
-
-以下は，ノートブックをGoogle Colabで開くためのリンクです．
-使用するノートブックのリンクをクリックすると，Google Colabでノートブックが開くので，各自のGoogleドライブへコピーして使用してください．
 
 [00.Google Colaboratoryの動作確認](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/00_operation_check_of_google_colab.ipynb)
 
