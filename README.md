@@ -1,32 +1,17 @@
 # Google Colab Notebooks
 
-このリポジトリはコンピュータビジョン・（深層）機械学習を学ぶためのプログラムが含まれています．
-プログラムは全てJupyter Notebookで記述されており，Google Colabを用いて実行することを想定しています．
-（※使用者自身の保有する計算機サーバ上でJupyter Notebook / Jupyter Lab等を起動して使用することも可能です．）
+
+This repository contains several notebooks in order to learn computer vision and (deep) machine learning.
+Every programs are written as Jupyter Notebook format and we assume that every programs are executed on Google Colaboratory.
+
+Note: you can run every notebooks on your local environment by using Jupyter server or Jupyter-lab.
 
 
-## リポジトリに含まれているノートブック
+## Notebooks overview
 
-このリポジトリに含まれているノートブックは以下の通りです．
+The following notebooks are inside in this repository.
+
 
 ### MLDL_lecture_notebook
 
-機械学習と深層学習の基本的な処理を学ぶための画像認識プログラムが含まれています．
-
-### JDLA_lecture_notebook
-
-一般社団法人 日本ディープラーニング協会 (Japan Deep Learning Association; JDLA) のE資格の学習を想定した機械学習・深層学習の学習用プログラムが含まれています．
-
-### Chainer_notebook
-
-Chainerを用いた深層学習の画像認識プログラムです．
-以前，MLDL_lecture_notebookで使用していたプログラムをアーカイブとして残しています．
-
-
-## Google Colabを用いたノートブックの実行方法
-
-このリポジトリのノートブックをGoogle Colabで実行するためには，実行したいノートブックのURLのうち，`github.com`を`colab.research.google.com/github`に置き換えてアクセスすることで，直接Google Colabで開くことが可能です．
-その後，画面上部の「ドライブにコピー」をクリックすることで，自身のGoogle Driveへノートブックがコピーされます．
-コピーされたノートブックを開き，実行してください．
-![Google Colabの画面](./image/google_colab1.png)
-
+There are notebooks of image recognition programs to learn basics of machine and deep learning.
