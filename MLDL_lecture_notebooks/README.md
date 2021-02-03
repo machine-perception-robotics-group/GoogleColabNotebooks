@@ -36,15 +36,15 @@ Google Colaboratoryを用いて，実習することを想定しています．
 
 
 
-[09.MNISTを用いた文字認識(MLP)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/01_MNIST_MLP.ipynb)
+[09.MNISTを用いた文字認識(MLP)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/09_MNIST_MLP.ipynb)
 
-[10.MNISTを用いた文字認識(CNN)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/02_MNIST_CNN.ipynb)
+[10.MNISTを用いた文字認識(CNN)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/10_MNIST_CNN.ipynb)
 
-[11.CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/03_CIFAR_CNN.ipynb)
+[11.CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/11_CIFAR_CNN.ipynb)
 
-[12.CIFAR10を用いた物体認識（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/04_augmentation.ipynb)
+[12.CIFAR10を用いた物体認識（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/12_augmentation.ipynb)
 
-[13.CIFAR10を用いた物体認識（ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/05_cifar_resnet.ipynb)
+[13.CIFAR10を用いた物体認識（ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/MLDL_lecture_notebooks/13_cifar_resnet.ipynb)
 
 
 
