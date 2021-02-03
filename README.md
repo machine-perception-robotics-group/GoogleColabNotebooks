@@ -17,11 +17,6 @@
 
 一般社団法人 日本ディープラーニング協会 (Japan Deep Learning Association; JDLA) のE資格の学習を想定した機械学習・深層学習の学習用プログラムが含まれています．
 
-### Chainer_notebook
-
-Chainerを用いた深層学習の画像認識プログラムです．
-以前，MLDL_lecture_notebookで使用していたプログラムをアーカイブとして残しています．
-
 
 ## Google Colabを用いたノートブックの実行方法
 
