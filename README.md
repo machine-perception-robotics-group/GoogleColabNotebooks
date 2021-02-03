@@ -10,39 +10,39 @@
 以下は，ノートブックをGoogle Colabで開くためのリンクです．
 使用するノートブックのリンクをクリックすると，Google Colabでノートブックが開くので，各自のGoogleドライブへコピーして使用してください．
 
-[00.Google Colaboratoryの動作確認](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/00_operation_check.ipynb)
+00. [Google Colaboratoryの動作確認](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/00_operation_check.ipynb)
 
-[01.グラフを描画する](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/01_draw_graph.ipynb)
+01. [グラフを描画する](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/01_draw_graph.ipynb)
 
-[02.ユークリッド距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/02_clf_euc_dist.ipynb)
+02. [ユークリッド距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/02_clf_euc_dist.ipynb)
 
-[03.マハラノビス距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/03_clf_mahal_dist.ipynb)
+03. [マハラノビス距離を用いたクラス識別](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/03_clf_mahal_dist.ipynb)
 
-[04.k最近傍法による教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/04_kNN.ipynb)
+04. [k最近傍法による教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/04_kNN.ipynb)
 
-[05.線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/05_linear_svm.ipynb)
+05. [線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/05_linear_svm.ipynb)
 
-[06.非線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/06_nonliear_svm.ipynb)
+06. [非線形SVMによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/06_nonliear_svm.ipynb)
 
-[07.AdaBoostによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/07_adaboost.ipynb)
+07. [AdaBoostによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/07_adaboost.ipynb)
 
-[08.RandomForestによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/08_random_forest.ipynb)
+08. [RandomForestによる教師あり学習](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/08_random_forest.ipynb)
 
-[09.MNISTを用いた文字認識(MLP)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/09_MNIST_MLP.ipynb)
+09. [MNISTを用いた文字認識(MLP)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/09_MNIST_MLP.ipynb)
 
-[10.MNISTを用いた文字認識(CNN)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/10_MNIST_CNN.ipynb)
+10. [MNISTを用いた文字認識(CNN)](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/10_MNIST_CNN.ipynb)
 
-[11.CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/11_CIFAR_CNN.ipynb)
+11. [CIFAR10を用いた物体認識](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/11_CIFAR_CNN.ipynb)
 
-[12.CIFAR10を用いた物体認識（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/12_augmentation.ipynb)
+12. [CIFAR10を用いた物体認識（Data Augmentation）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/12_augmentation.ipynb)
 
-[13.CIFAR10を用いた物体認識（ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/13_cifar_resnet.ipynb)
+13. [CIFAR10を用いた物体認識（ResNet）](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/13_cifar_resnet.ipynb)
 
-[14.Recurrent Neural Networkによる電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/14_power_pred_rnn.ipynb)
+14. [Recurrent Neural Networkによる電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/14_power_pred_rnn.ipynb)
 
-[15.Auto Encoderによる画像の復元とデノイジング](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/15_autoencoder.ipynb)
+15. [Auto Encoderによる画像の復元とデノイジング](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/15_autoencoder.ipynb)
 
-[16.強化学習によるCart Pole制御](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/16_cartpole_dqn.ipynb)
+16. [強化学習によるCart Pole制御](https://colab.research.google.com/github/machine-perception-robotics-group/GoogleColabNotebooks/blob/master/notebooks/16_cartpole_dqn.ipynb)
 
 
 ## Google Colabを用いたノートブックの実行方法
