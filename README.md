@@ -13,10 +13,6 @@
 
 機械学習と深層学習の基本的な処理を学ぶための画像認識プログラムが含まれています．
 
-### JDLA_lecture_notebook
-
-一般社団法人 日本ディープラーニング協会 (Japan Deep Learning Association; JDLA) のE資格の学習を想定した機械学習・深層学習の学習用プログラムが含まれています．
-
 
 ## Google Colabを用いたノートブックの実行方法
 
